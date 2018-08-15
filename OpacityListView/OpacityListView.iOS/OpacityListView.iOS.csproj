@@ -157,4 +157,16 @@
       <Name>OpacityListView</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Malaga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Malaga01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Malaga02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Malaga03.jpg" />
+  </ItemGroup>
 </Project>
